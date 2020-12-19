@@ -1,0 +1,16 @@
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/bin/Debug/netcoreapp3.1/AssemblyExample.deps.json
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/bin/Debug/netcoreapp3.1/AssemblyExample.dll
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/bin/Debug/netcoreapp3.1/AssemblyExample.pdb
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.csprojAssemblyReference.cache
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.AssemblyInfoInputs.cache
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.AssemblyInfo.cs
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.dll
+/Users/nicolaiwulff/RiderProjects/CsExam/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.pdb
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/bin/Debug/netcoreapp3.1/AssemblyExample.deps.json
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/bin/Debug/netcoreapp3.1/AssemblyExample.dll
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/bin/Debug/netcoreapp3.1/AssemblyExample.pdb
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.csprojAssemblyReference.cache
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.AssemblyInfoInputs.cache
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.AssemblyInfo.cs
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.dll
+/Users/nicolaiwulff/RiderProjects/CsExam2/AssemblyExample/obj/Debug/netcoreapp3.1/AssemblyExample.pdb

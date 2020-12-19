@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CsExam/1.0.0": {
+        "dependencies": {
+          "AppDomainTest": "1.0.0",
+          "AssemblyExample": "1.0.0"
+        },
+        "runtime": {
+          "CsExam.dll": {}
+        }
+      },
+      "AppDomainTest/1.0.0": {
+        "runtime": {
+          "AppDomainTest.exe": {}
+        }
+      },
+      "AssemblyExample/1.0.0": {
+        "runtime": {
+          "AssemblyExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppDomainTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssemblyExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

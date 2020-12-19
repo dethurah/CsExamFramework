@@ -1,0 +1,16 @@
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/bin/Debug/AppDomainTest.exe
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/bin/Debug/AppDomainTest.pdb
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/obj/Debug/AppDomainTest.csprojAssemblyReference.cache
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/obj/Debug/AppDomainTest.exe
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/obj/Debug/AppDomainTest.pdb
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/bin/Debug/AssemblyExample.dll
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/bin/Debug/AssemblyExample.pdb
+/Users/nicolaiwulff/RiderProjects/AppDomainTest/AppDomainTest/obj/Debug/AppDomainTest.csproj.CopyComplete
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/bin/Debug/AppDomainTest.exe
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/bin/Debug/AppDomainTest.pdb
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/bin/Debug/AssemblyExample.dll
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/bin/Debug/AssemblyExample.pdb
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/obj/Debug/AppDomainTest.csprojAssemblyReference.cache
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/obj/Debug/AppDomainTest.csproj.CopyComplete
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/obj/Debug/AppDomainTest.exe
+/Users/nicolaiwulff/RiderProjects/CsExam2/AppDomainTest/obj/Debug/AppDomainTest.pdb

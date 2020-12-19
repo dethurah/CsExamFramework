@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_CsExam2.-472073000.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AppDomainTest" t="IncludeRecursive">
+        <e p="AppDomainTest.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="AssemblyExample" t="IncludeRecursive">
+        <e p="AssemblyExample.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassExample.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="AssemblyExample.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="CsExam" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CsExam.csproj" t="IncludeRecursive" />
+        <e p="Examples" t="Include">
+          <e p="1 - CollectionsGenerics" t="Include">
+            <e p="Collections.cs" t="Include" />
+            <e p="ExceptionExample.cs" t="Include" />
+            <e p="GenericArray.cs" t="Include" />
+            <e p="ITransactions.cs" t="Include" />
+            <e p="Transactions.cs" t="Include" />
+          </e>
+          <e p="2 - Delegates, Events, LINQ ect" t="Include">
+            <e p="DelegatesExample.cs" t="Include" />
+            <e p="Events.cs" t="Include" />
+            <e p="Indexers.cs" t="Include" />
+            <e p="LINQExample.cs" t="Include" />
+            <e p="OperatorOverloading.cs" t="Include" />
+          </e>
+          <e p="4 - Assemblies, Type reflection, Late binding etc" t="Include">
+            <e p="Assemblies.cs" t="Include" />
+            <e p="Attributes.cs" t="Include" />
+            <e p="LateBinding.cs" t="Include" />
+            <e p="Type_Reflection.cs" t="Include" />
+          </e>
+          <e p="5 – AppDomains, Multi-threads and parallel programming" t="Include">
+            <e p="AppDomains.cs" t="Include" />
+            <e p="MultiThreads-Locks.cs" t="Include" />
+            <e p="MultiThreads.cs" t="Include" />
+          </e>
+          <e p="6 - LINQ To XML" t="Include">
+            <e p="PurchaseOrder.xml" t="Include" />
+            <e p="SerializeExample.cs" t="Include" />
+            <e p="XMLToLINQExample.cs" t="Include" />
+          </e>
+          <e p="7 - Dynamic" t="Include">
+            <e p="DynamicAssemblyExample.cs" t="Include" />
+            <e p="DynamicExample.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="CsExam.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="po.xml" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="CsExam2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WPF_Example" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="giphy(1).gif" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="WPF_Example.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
